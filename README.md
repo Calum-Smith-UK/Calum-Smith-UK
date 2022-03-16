@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Calum
+- 👀 I’m interested in Data Visualisation, Machine Learning & Process Automation 
+- 🌱 I’m currently learning Python
